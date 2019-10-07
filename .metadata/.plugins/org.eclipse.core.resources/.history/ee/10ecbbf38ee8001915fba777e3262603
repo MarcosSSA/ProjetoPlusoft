@@ -1,0 +1,5 @@
+package com.ramos.crudplusoft.servicos;
+
+public class PessoaServico {
+
+}

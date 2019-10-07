@@ -1,0 +1,5 @@
+package com.ramo.crudplusoft.model;
+
+public class Pessoa {
+
+}
